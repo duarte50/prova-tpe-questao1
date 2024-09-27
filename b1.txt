@@ -2,10 +2,6 @@
   <body>
        <h1>Prova TPE</h1>
    </body>
-<<<<<<< HEAD
 </html>
 <p>Conteúdo adicional</p>.
 <p>Outra linha</p>
-=======
-</html>
->>>>>>> teste
